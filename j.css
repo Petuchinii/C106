@@ -1,0 +1,10 @@
+#cam {
+    width: 300px;
+    height: 300px;
+    border: 2px solid rgb(107, 7, 237);
+}
+
+button { 
+    padding: 5px;
+    background-color: rgb(116, 116, 148);
+}
